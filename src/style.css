@@ -1,0 +1,15 @@
+body{
+    background-color: yellow;
+}
+img{
+  size: 80px;
+  text-align: center;
+}
+h1 , h5 , p{
+    text-align: center;
+}
+a{
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+}
